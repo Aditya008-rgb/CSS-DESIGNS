@@ -4,9 +4,6 @@ A clean, responsive landing page interface for **EduFlex**, an online education 
 
 ---
 
-## 📸 Preview
-
-![EduFlex Landing Page Preview](./screenshot.png)
 
 > Replace `./screenshot.png` with the actual path or image URL of your screenshot inside the repo.
 
@@ -14,7 +11,7 @@ A clean, responsive landing page interface for **EduFlex**, an online education 
 
 ## 🚀 Live Demo
 
-- **Live URL:** [View Project Live](https://your-username.github.io/your-repo-name/) *(optional: enable GitHub Pages to add your link here)*
+- **Live URL:** [View Project Live](https://aditya008-rgb.github.io/CSS-DESIGNS/ui1/) 
 
 ---
 
